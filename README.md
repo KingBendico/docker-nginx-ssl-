@@ -1,6 +1,6 @@
 # docker-nginx-ssl-
 - Author: Benjamin David Choleva
-- CPH Id: bc105
+- CPH student-id: bc105
 - cph-bc105@cphbusiness.dk
 
 
